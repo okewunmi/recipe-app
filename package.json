@@ -1,0 +1,12 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "recipe application",
+  "main": " ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "author": "okewunmi",
+  "license": "ISC"
+}
